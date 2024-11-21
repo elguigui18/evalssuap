@@ -1,6 +1,6 @@
 # evalssuap
 
-An Electron application with Vue and TypeScript
+Gestion des évaluations des formations EPS et EVSAV du SDIS 18.
 
 ## Recommended IDE Setup
 
@@ -24,11 +24,7 @@ $ npm run dev
 
 ```bash
 # For windows
-$ npm run build:win
+$ npm run make
 
-# For macOS
-$ npm run build:mac
 
-# For Linux
-$ npm run build:linux
 ```
